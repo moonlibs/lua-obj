@@ -1,12 +1,12 @@
 package = 'obj'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/Mons/lua-obj.git',
+    url    = 'git://github.com/moonlibs/obj.git',
     branch = 'master',
 }
 description = {
     summary  = "Very simple lua oop framework",
-    homepage = 'https://github.com/Mons/lua-obj.git',
+    homepage = 'https://github.com/moonlibs/obj.git',
     license  = 'BSD',
 }
 dependencies = {
